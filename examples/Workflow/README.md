@@ -128,4 +128,4 @@ info: WorkflowConsoleApp.Activities.NotifyActivity[0]
 If you have Zipkin configured for Dapr locally on your machine, then you can view the workflow trace spans in the Zipkin web UI (typically at http://localhost:9411/zipkin/).
 
 ## Additional Samples
-To try samples for specific workflow patterns navagate to the [samples directory](https://github.com/dapr/dotnet-sdk/examples/Workflow/samples/README.md). 
+For additional samples for specific workflow patterns navagate to the [samples directory](https://github.com/dapr/dotnet-sdk/examples/Workflow/samples/README.md). 
