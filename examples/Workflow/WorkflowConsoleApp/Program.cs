@@ -68,6 +68,7 @@ var baseInventory = new List<InventoryItem>
     new InventoryItem(Name: "Mouse", PerItemCost: 150, Quantity: 100),
     new InventoryItem(Name: "Headphones", PerItemCost: 300, Quantity: 100),
     new InventoryItem(Name: "Adapters", PerItemCost: 60, Quantity: 100),
+    new InventoryItem(Name: "CompanyCar", PerItemCost: 50000, Quantity: 100),
 };
 
 // Populate the store with items
